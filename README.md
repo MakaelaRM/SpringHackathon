@@ -1,5 +1,3 @@
-<img width="1077" alt="Screenshot 2025-03-29 at 4 04 24 PM" src="https://github.com/user-attachments/assets/32ecd11e-3781-4455-a363-6e4cc16a3b5b" />
-
 We participated in a 21-hour hackathon hosted by NASA and the USDA, working on a team of four. Our project used LiDAR and NAIP imagery to train a U-Net model that automatically detects and maps trails. By applying computer vision techniques to geospatial data, we aimed to streamline the identification of trail networks for improved resource allocation and environmental monitoring.
 
 Data Preparation
